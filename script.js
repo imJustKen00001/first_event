@@ -1,0 +1,1 @@
+document.querySelector('.hello').classList.remove('bye')
